@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syorami
-- 👀 I’m interested in Computer Vision, Semi-Supervised Learning, Self-Supervised Learning and Efficient Model Training etc.
+- 👀 I’m interested in Computer Vision, Semi-Supervised Learning, Self-Supervised Learning and Efficient Training etc.
 - 💞️ I’m looking to collaborate on above topics
 - 📫 How to reach me: zhoubeitong@gmail.com
 
